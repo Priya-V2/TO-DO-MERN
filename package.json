@@ -1,0 +1,19 @@
+{
+  "name": "to-do-mern",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server/index.js",
+    "start": "node server/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.1",
+    "nodemon": "^3.1.3"
+  }
+}
